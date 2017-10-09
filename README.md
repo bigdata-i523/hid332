@@ -21,7 +21,7 @@ paper1:
    abstract: Overview of how Big data and Data science in being used in Agriculture
    # url: https://github.com/bigdata-i523/hid332/paper1/paper1.pdf 
    type: latex
-   status: completed
+   status: 100%
    chapter: Environment
 ```
 
