@@ -37,7 +37,7 @@ paper2:
    abstract: Overview of how big data is being used in developing countries to solve issues
    # url: https://github.com/bigdata-i523/sample-hid332/paper2/paper2.pdf  (not yet posted)  
    type: latex
-   status: not yet started
+   status: In process
 ```
 
 # Project
