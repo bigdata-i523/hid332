@@ -44,7 +44,7 @@
 * 10/04/17 - Posted paper1 draft and requested feedback
 * 10/05/17 -10/06/17 Worked on paper
 * 10/07/17 - Posted Paper 1
-* 10/08/17 - Started research for Paper 2
+* 10/08/17 - ??? - Started research for Paper 2
 
 # Assignments
 
