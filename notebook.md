@@ -28,6 +28,7 @@
 * 09/26/17 - Installed Python to my newer computer
 * 09/28/17 - Experimented with Python via tutorial
 * 10/1/17 - Googled and read about YAML format
+* 10/11/17 - Read Python tutorial again.  Practiced with some simple Python examples. Reviewed and tried to digest Python code to solve YAML problem.
 
 
 # Writing
