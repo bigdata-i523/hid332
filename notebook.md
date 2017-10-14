@@ -7,6 +7,8 @@
 * 10/09/17  Attended zoom meeting
 * 10/13/17  Attended zoom meeting
 
+# Weeks with no progress
+
 # Logistic
 
 * 08/21/17 to 08/27/17 Read the entire class overview section, posted bio, registered to piazza, github, futuresystems, chameleon cloud
@@ -18,13 +20,14 @@
 # Theory
 
 * 08/28/17 - 09/03/17 Read and watched all videos in the Theory Introduction section
-* 09/12/17 - 09/15/17 Read slides and watched videos - Data Science 
-* 09/16/17 - 09/23/17 Completed viewing Big Data Use Cases Survey
-* 09/24/17 - 09/28/17 Completed viewing Health Informatics Case Study
-* 09/29/17 - 10/04/17 Completed viewing e-commerce and lifesyle
-* 10/04/17 - 10/13/17 Completed viewing physics 
-* 10/13/17 - 10/14/17 Completed viewing Radar
-* 10/14/17 Completed viewing Sensors
+* 09/12/17 - 09/15/17 Read slides and watched videos for Overview of Data Science 
+* 09/16/17 - 09/23/17 Completed viewing videos Big Data Use Cases Survey
+* 09/24/17 - 09/28/17 Completed viewing videos Health Informatics Case Study
+* 09/29/17 - 10/04/17 Completed viewing videos e-commerce and Lifesyle case Study
+* 10/04/17 - 10/13/17 Completed viewing videos Physics Case Study
+* 10/13/17 - 10/14/17 Completed viewing videos Radar Case Study
+* 10/14/17 Completed viewing videos Sensors Case Study
+* 10/14/17 -??? Viewing Sports Case Study in progress
 
 # Practice
 
