@@ -9,6 +9,7 @@
 * 09/18/2017 - Attended zoom meeting
 * 10/02/2017 - Attended zoom meeting
 * 10/09/2017 - Attended zoom meeting
+* 10/13/2017 - Attended zoom meeting
 
 
 # Theory
@@ -18,7 +19,9 @@
 * 09/16/17 - 09/23/17 Completed viewing Big Data Use Cases Survey
 * 09/24/17 - 09/28/17 Completed viewing Health Informatics Case Study
 * 09/29/17 - 10/04/17 Completed viewing e-commerce and lifesyle
-* 10/04/17 -  Viewing physics in process
+* 10/04/17 - 10/13/17 Completed viewing physics 
+* 10/13/17 - 10/14/17 Completed viewing Radar
+* 10/14/17 -??? Viewing Sensors in Progress
 
 # Practice
 
