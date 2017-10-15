@@ -53,8 +53,9 @@
 * 09/27/17 - 09/29/2017 Worked on paper, concentrated on getting bibliography updates to work
 * 10/04/17 Posted paper1 draft and requested feedback
 * 10/05/17 -10/06/17 Worked on paper
-* 10/07/17 - Posted Paper 1
-* 10/08/17 - ???  Started research for Paper 2
+* 10/07/17 - Posted Paper 
+* 10/08/17 - 10/16/17  Started research for Paper 2, started outline Paper 2
+0/15/17 Posted review to paper
 
 # Assignments
 
@@ -62,4 +63,5 @@
 * 09/15/17 Proposed Topic for Paper 2
 * 09/20/17 Updated github.com README page
 * 10/07/17 Posted Paper 
+* 10/15/17 Posted review to paper
 
