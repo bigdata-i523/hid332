@@ -1,0 +1,35 @@
+---
+owner:
+    hid: 332
+    name: Judy Phillips
+    url: https://github.com/bigdata-i523/hid332
+paper1:
+    abstract: Overview of how Big data and Data science in being used in Agriculture
+    author:
+        - Judy Phillips
+    chapter: Environment
+    hid:
+        - 332
+    status: 100%
+    title: Big Data Analytics in Agriculture
+    type: latex
+paper2:
+    abstract: Overview of how big data is being used in developing countries to solve
+        issues
+    author:
+        - Judy Phillips
+    hid:
+        - 332
+    status: In process
+    title: Big Data Analytics in Developing Countries
+    type: latex
+project:
+    abstract: Not yet decided
+    author:
+        - Judy Phillips
+    hid:
+        - 332
+    status: not yet started
+    title: Not yet decided
+    type: latex
+    url: https://github.com/bigdata-i523/sample-hid332/project/report.pdf
