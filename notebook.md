@@ -23,7 +23,7 @@
 * 09/12/17 - 09/15/17 Read slides and watched videos for Overview of Data Science 
 * 09/16/17 - 09/23/17 Completed viewing videos Big Data Use Cases Survey
 * 09/24/17 - 09/28/17 Completed viewing videos Health Informatics Case Study
-* 09/29/17 - 10/04/17 Completed viewing videos e-commerce and Lifesyle case Study
+* 09/29/17 - 10/04/17 Completed viewing videos e-commerce and Lifestyle case Study
 * 10/04/17 - 10/13/17 Completed viewing videos Physics Case Study
 * 10/13/17 - 10/14/17 Completed viewing videos Radar Case Study
 * 10/14/17 Completed viewing videos Sensors Case Study
