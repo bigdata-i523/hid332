@@ -6,6 +6,7 @@
 * 10/02/17  Attended zoom meeting
 * 10/09/17  Attended zoom meeting
 * 10/13/17  Attended zoom meeting
+* 10/16/17  Attended zoom meeting
 
 # Weeks with no progress
 
