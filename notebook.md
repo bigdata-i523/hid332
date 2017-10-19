@@ -7,7 +7,7 @@
 * 10/09/17  Attended zoom meeting
 * 10/13/17  Attended zoom meeting
 * 10/16/17  Attended zoom meeting
-* 10/17/17  Attended zoom meeting
+* 10/18/17  Attended zoom meeting
 
 # Weeks with no progress
 
@@ -29,8 +29,8 @@
 * 10/04/17 - 10/13/17 Completed viewing videos Physics Case Study
 * 10/13/17 - 10/14/17 Completed viewing videos Radar Case Study
 * 10/14/17 Completed viewing videos Sensors Case Study
-* 10/14/17 -10/19/2017 Completed viewing Sports Case Study in progress
-* 10/19/17 - ??? Web search and text mining in process
+* 10/14/17 -10/19/2017 Completed viewing Sports Case Study
+* 10/19/17 - ??? Web search and text mining in progress
 
 # Practice
 
