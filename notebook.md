@@ -8,6 +8,7 @@
 * 10/13/17  Attended zoom meeting
 * 10/16/17  Attended zoom meeting
 * 10/18/17  Attended zoom meeting
+* 10/20/17  Attended zoom meeting to ask question concerning the resubmit of my paper
 
 # Weeks with no progress
 
@@ -58,7 +59,8 @@
 * 10/05/17 -10/06/17 Worked on paper
 * 10/07/17 - Posted Paper 
 * 10/08/17 - 10/16/17  Started research for Paper 2, started outline Paper 2
-0/15/17 Posted review to paper
+* 10/15/17 Posted review to paper
+* 10/17/17 - Working on paper 2
 
 # Assignments
 
