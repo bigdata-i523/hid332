@@ -9,6 +9,7 @@
 * 10/16/17  Attended zoom meeting
 * 10/18/17  Attended zoom meeting
 * 10/20/17  Attended zoom meeting to ask question concerning the resubmit of my paper
+* 10/23/17  Attended zoom meeting
 
 # Weeks with no progress
 
