@@ -71,7 +71,7 @@
 * 09/06/17 Proposed Topic for Paper 1
 * 09/15/17 Proposed Topic for Paper 2
 * 09/20/17 Updated github.com README page
-* 10/07/17 Posted Paper 
+* 10/07/17 Posted Paper 1
 * 10/15/17 Posted review to paper
 * 10/23/17 Proposed abstract for final project
 
