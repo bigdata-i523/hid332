@@ -63,6 +63,7 @@
 * 10/20/17 Made corrections to paper 1. Marked issues as DONE. Resubmitted paper 1.
 * 10/17/17 - 10/22/2017 Worked on writing of paper 2
 * 10/23/17 - ???        Working on paper 2  
+* 10/23/17 Proposed abstract of final project
 
 # Assignments
 
@@ -71,4 +72,5 @@
 * 09/20/17 Updated github.com README page
 * 10/07/17 Posted Paper 
 * 10/15/17 Posted review to paper
+* 10/23/17 Proposed abstract for final project
 
