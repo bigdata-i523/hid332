@@ -31,7 +31,7 @@
 * 10/13/17 - 10/14/17 Completed viewing videos Radar Case Study
 * 10/14/17 Completed viewing videos Sensors Case Study
 * 10/14/17 -10/19/2017 Completed viewing Sports Case Study
-* 10/19/17 - ??? Web search and text mining in progress
+* 10/19/17 - 10/23/2017 Completed viewing Web search and text mining
 
 # Practice
 
@@ -61,7 +61,8 @@
 * 10/08/17 - 10/16/17  Started research for Paper 2, started outline Paper 2
 * 10/15/17 Posted review to paper
 * 10/20/17 Made corrections to paper 1. Marked issues as DONE. Resubmitted paper 1.
-* 10/17/17 - Working on paper 2
+* 10/17/17 - 10/22/2017 Working on paper 2
+* 10/23/17 - ???        Working on paper 2  
 
 # Assignments
 
