@@ -20,16 +20,16 @@ paper2:
         - Judy Phillips
     hid:
         - 332
-    status: In process
+    status: 85%
     title: Big Data Analytics in Developing Countries
     type: latex
 project:
-    abstract: Not yet decided
+    abstract: Discussion of ways ths Big Data Analytics can be used to manage health care costs in the United States
     author:
         - Judy Phillips
     hid:
         - 332
     status: not yet started
-    title: Not yet decided
+    title: Big Data Analytics to Reduce Health Care in the United States
     type: latex
     url: https://github.com/bigdata-i523/sample-hid332/project/report.pdf
