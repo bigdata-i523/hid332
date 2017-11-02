@@ -11,6 +11,7 @@
 * 10/20/17  Attended zoom meeting to ask question concerning the resubmit of my paper
 * 10/23/17  Attended zoom meeting
 * 10/30/17  Attended zoom meeting
+* 11/01/17  Attended zoom meeting to ask question about paper2 and programming for experiments and project
 
 # Weeks with no progress
 
