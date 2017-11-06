@@ -12,6 +12,7 @@
 * 10/23/17  Attended zoom meeting
 * 10/30/17  Attended zoom meeting
 * 11/01/17  Attended zoom meeting to ask question about paper2 and programming for experiments and project
+* 11/04/17  Attended zoom meeting
 
 # Weeks with no progress
 
@@ -67,7 +68,9 @@
 * 10/17/17 - 10/22/17 Worked on writing of paper 2
 * 10/23/17 Proposed abstract of final project
 * 10/23/17 - 10/29/17 Worked on paper 2 , Posted first draft of Paper 2 to github in report.tex and report.bib files
-* 10/30/17 Working on finalizing paper 2
+* 10/30/17 - 11/3/17 Working on finalizing paper 2
+* 11/04/17 - Submitted final version of paper 2 to github
+* 11/05/17 - ??? Research for final project 
 
 
 # Assignments
