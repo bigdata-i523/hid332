@@ -69,7 +69,7 @@
 * 10/23/17 Proposed abstract of final project
 * 10/23/17 - 10/29/17 Worked on paper 2 , Posted first draft of Paper 2 to github in report.tex and report.bib files
 * 10/30/17 - 11/3/17 Working on finalizing paper 2
-* 11/04/17 - Submitted final version of paper 2 to github
+* 11/04/17 Submitted final version of paper 2 to github
 * 11/05/17 - ??? Research for final project 
 
 
@@ -81,4 +81,6 @@
 * 10/07/17 Posted Paper 1
 * 10/15/17 Posted review to paper
 * 10/23/17 Proposed abstract for final project
+* 11/03/17 Submitted graded quiz about YAML formating
+* 11/04/17 Submitted paper 2
 
