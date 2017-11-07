@@ -1,0 +1,44 @@
+Precision and Recall
+In machine learning model, we have mentioned that, there is an important concept called metrics. However, for classifications problems, accuracy is one of the metrics. There are other important metrics.
+In this exercise, we will test our model with new metrics: Precision and Recall
+Please answer Questions first before we move on:
+To help you understand precision and recall. Please answer questions below by searching and input your answers.
+Question 1: What is your understanding of these terms: true postive, false postive, true negative, false negative? Question 2: What are the relationships between those terms and precision or recall? Please write down your answer by two simple methematical equation
+Answer: Please double click the cell and input your answer here.
+In [1]:
+from sklearn import svm, datasets
+from sklearn.model_selection import train_test_split
+import numpy as np
+Below is an example for how to get precision of your model
+Attention : You need to finish one line of code to implement the whole example. This is the homework for you.
+In [3]:
+#Let's load iris data again
+iris = datasets.load_iris()
+X = iris.data
+y = iris.target
+In [4]:
+# Let's split the data to training and testing data.
+random_state = np.random.RandomState(0)
+n_samples, n_features = X.shape
+X = np.c_[X, random_state.randn(n_samples, 200 * n_features)]
+
+# Limit to the two first classes, and split into training and test
+X_train, X_test, y_train, y_test = train_test_split(X[y < 2], y[y < 2],
+                                                    test_size=.5,
+                                                    random_state=random_state)
+In [5]:
+# Create a simple classifier
+classifier = svm.LinearSVC(random_state=random_state)
+In [ ]:
+# How could we fit the model? Please find your solutions from our example, and write down your code to fit the svm model 
+# from training data.
+In [6]:
+# After you have fit the model, then we make predicions.
+y_score = classifier.decision_function(X_test)
+Get the average precision score, Run the cell below
+In [ ]:
+from sklearn.metrics import average_precision_score
+average_precision = average_precision_score(y_test, y_score)
+
+print('Average precision-recall score: {0:0.2f}'.format(
+      avera
