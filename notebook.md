@@ -16,6 +16,7 @@
 * 11/10/17  Attended zoom meeting
 * 11/13/17  Attended zoom meeting
 * 11/20/17  Attended zoom meeting
+* 11/27/17  Attended zoom meeting
 
 
 # Weeks with no progress
@@ -76,7 +77,8 @@
 * 11/04/17 Submitted final version of paper 2 to github
 * 11/05/17 - 11/12/17 Research for final project 
 * 11/13/17 - 11/19/17 Started writing paper for project
-* 11/20/17 - ??? Continue to write paper for final project
+* 11/20/17 - 11/27/17 Continue to write paper for final project
+* 11/28/17 - ???      Continue to write paper for final project
 
 
 # Assignments
