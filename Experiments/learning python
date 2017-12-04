@@ -1,1 +1,23 @@
 
+
+In order to introduce myself to Python, I purchased a book "Introducing Python" by Bill Lubanovic, November, 2014
+
+I have installed Python on my local windows computer.
+
+Following is a demonstration of the exercises in the back of each chapter:
+
+Chapter 2 
+
+Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 20:25:58) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 60*60
+3600
+>>> seconds_per_hour = 60 * 60
+>>> print(seconds_per_hour)
+3600
+>>> seconds_per_day = 24 * seconds_per_hour
+>>> print(seconds_per_day)
+86400
+>>> print(seconds_per_day/seconds_per_hour)
+24
+
