@@ -22,3 +22,20 @@ Type "copyright", "credits" or "license()" for more information.
 >>> print(seconds_per_day/seconds_per_hour)
 24
 
+Chapter 3 Lists, Tuples - Dictionaries and Sets
+
+Create list - captialize, uppercase, remove element
+Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 20:25:58) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> things = ['mozzarella', 'cinderella', 'salmonella']
+>>> things
+['mozzarella', 'cinderella', 'salmonella']
+>>> things[1] = things[1].capitalize()
+>>> things
+['mozzarella', 'Cinderella', 'salmonella']
+>>> things[0] = things[0].upper()
+>>> things
+['MOZZARELLA', 'Cinderella', 'salmonella']
+>>> things.remove('salmonella')
+>>> things
+['MOZZARELLA', 'Cinderella']
