@@ -46,10 +46,17 @@ ef2 = {'dog':'chien','cat':'chat','walrus':'morse'}
 {'walrus': 'morse', 'dog': 'chien', 'cat': 'chat'}
 >>> ef2['walrus']
 'morse'
-f2e = {}
-for english, french in e2f.items():
-f2e[french] = english
-f2e
 
+IF ELSE
+guess_me = 7
+if guess_me < 7:
+   print('too low')
+elif guess_me > 7:
+   print('too high')
+else:
+   print('just right') 
 
-
+print even numbers
+even = [number for number in range(10) if number % 2 ==0]
+>>> even
+[0, 2, 4, 6, 8]
