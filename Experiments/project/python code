@@ -39,3 +39,13 @@ SyntaxError: EOL while scanning string literal
 >>> rows = curs.fetchall()
 >>> print(rows)
 [(u'New England', 18.25), (u'Mideast', 21.97), (u'Plains', 24.36), (u'Great Lakes', 24.79), (u'Southeast', 24.89), (u'Southwest', 27.86), (u'Far West', 33.26), (u'Rocky Mountains', 35.87)]
+>>> curs.execute('select avg(incr) from hlthincr')
+<sqlite3.Cursor object at 0x0000000001E4FCE0>
+
+*******calculate min max and average
+>>> curs.fetchall()
+[(26.40625,)]
+>>> curs.execute('select min(incr), max(incr), avg(incr) from hlthincr')
+<sqlite3.Cursor object at 0x0000000001E4FCE0>
+>>> curs.fetchall()
+[(18.25, 35.87, 26.40625)]
