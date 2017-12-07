@@ -1,1 +1,33 @@
 
+COMPARSION OF HOSPITAL NATIONAL EXPENDITURES BY REGION AND STATE
+
+SOURCE FILE 
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html
+The source file is CMS national expeditures by state and region. The file includes expeditures for personal health, hospital, physicicans, and clinics and other.
+
+
+METHODOLOGY - TREND ANALYSIS
+1. Calculate Percentage increase in dollar amount spent over time by region.
+2. Identify the regions with both the highest increases and the lowest increases
+3. For highest and lowest performing region above drill into the data by state.
+4. Identify the states with the highest increases and lowest increases
+5. Compare practices between highest and lowest performing states to identify differences in practice patterns. Objective is to develop best practice methodology.
+Data will need to be reviewed at provider, diagnoses, procedure code level .
+6.  Study may provide insights into best practice methodologies that can potentially be adopted nationwide.
+7. This comparison can be duplicated for other the other type of services in addition to hospital (personal, physician and clinic, other, and dental).
+
+PROCESS
+
+1. In order to identify highest and lowest performing regions I compared the total cost increase for the most recent 5 year time period.
+2. Among all regions:
+New England - 18.25%
+Rocky Mountain - 35.87%
+Mean - 26.4%
+3. Amoung states within regions:
+New England - Massachusetts - 13.06%
+Rocky Mountain - Idaho - 47.66%
+Mean - 28.79%
+
+CONCLUSION
+
+Performance varies materially between states. Potential to learn from lower trending states.
