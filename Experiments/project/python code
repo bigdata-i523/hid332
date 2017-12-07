@@ -1,1 +1,33 @@
+Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 20:25:58) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> import sqlite3
+>>> curs = conn.cursor()
+
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    curs = conn.cursor()
+NameError: name 'conn' is not defined
+>>> import sqlite3
+>>> conn = sqlite3.connect('enterprise.db')
+>>> curs = conn.cursor()
+>>> curs.execute('''CREATE TABLE hlth
+                 (region VARCHAR(20) PRIMARY KEY,
+                  incr    float)''')
+<sqlite3.Cursor object at 0x0000000002B62650>
+>>> ins = 'INSERT INTO hlth (region, incr) VALUES("EAST",.5)')
+SyntaxError: invalid syntax
+>>> curs.execute(INSERT into hlth VALUES("EAST",.5)')
+	     
+SyntaxError: invalid syntax
+>>> ins = 'INSERT INTO hlth(region,incr) VALUES(?,?)'
+>>> curs.execute(ins, ('east',.5))
+<sqlite3.Cursor object at 0x0000000002B62650>
+>>> curs.execute('SELECT * FROM hlth)
+	     
+SyntaxError: EOL while scanning string literal
+>>> curs.execute('SELECT * FROM hlth')
+<sqlite3.Cursor object at 0x0000000002B62650>
+>>> rows = curs.fetchall()
+>>> print(rows)
+[(u'east', 0.5)]
 
