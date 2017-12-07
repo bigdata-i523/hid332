@@ -2,3 +2,7 @@
 In simple text files, the only level of organization is the line. Sometimes more structure is needed. Here are notes about various formats:
 
 CSV - delimters include tab ('\t'), comma (',') or vertical bar. Often used is spreadsheets and databases. Parsing can get complicated. Python has CSV module (Import CSV)
+XML - '<' and '>' tags. Delimted files convey only 2 dimensions - lines and columns
+HTML - Hypertext Markup language. This is the basic document format for the web. 
+JSON - Javascript Object Notation - very popular data exchange format. Subset of Javascript. Legal Python syntax
+YAML - Similar to JSON. Has keys and values but handles more data types such as dates and times. The standard Python Library does not include hanling. Therefore, separate third party library needed to handle. Indentation
