@@ -46,3 +46,10 @@ ef2 = {'dog':'chien','cat':'chat','walrus':'morse'}
 {'walrus': 'morse', 'dog': 'chien', 'cat': 'chat'}
 >>> ef2['walrus']
 'morse'
+f2e = {}
+for english, french in e2f.items():
+f2e[french] = english
+f2e
+
+
+
