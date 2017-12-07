@@ -22,15 +22,20 @@ SyntaxError: EOL while scanning string literal
 <sqlite3.Cursor object at 0x0000000001E4FCE0>
 >>> curs.execute(ins,('Mideast', 21.97))
 <sqlite3.Cursor object at 0x0000000001E4FCE0>
->>> curs.execute(ins('Great Lakes', 2.79))
-
-Traceback (most recent call last):
-  File "<pyshell#14>", line 1, in <module>
-    curs.execute(ins('Great Lakes', 2.79))
-TypeError: 'str' object is not callable
 >>> curs.execute(ins,('Great Lakes', 24.79))
 <sqlite3.Cursor object at 0x0000000001E4FCE0>
 >>> curs.execute(ins,('Plains', 24.36))
 <sqlite3.Cursor object at 0x0000000001E4FCE0>
 >>> curs.execute(ins,('Rocky Mountains', 35.87))
 <sqlite3.Cursor object at 0x0000000001E4FCE0>
+>>> curs.execute(ins,('Southeast', 24.89))
+<sqlite3.Cursor object at 0x0000000001E4FCE0>
+>>> curs.execute(ins,('Southwest', 27.86))
+<sqlite3.Cursor object at 0x0000000001E4FCE0>
+>>> curs.execute(ins, ('Far West', 33.26))
+<sqlite3.Cursor object at 0x0000000001E4FCE0>
+>>> curs.execute('select * from hlthincr order by incr')
+<sqlite3.Cursor object at 0x0000000001E4FCE0>
+>>> rows = curs.fetchall()
+>>> print(rows)
+[(u'New England', 18.25), (u'Mideast', 21.97), (u'Plains', 24.36), (u'Great Lakes', 24.79), (u'Southeast', 24.89), (u'Southwest', 27.86), (u'Far West', 33.26), (u'Rocky Mountains', 35.87)]
