@@ -39,3 +39,10 @@ Type "copyright", "credits" or "license()" for more information.
 >>> things.remove('salmonella')
 >>> things
 ['MOZZARELLA', 'Cinderella']
+
+Create an english to french dictionary
+ef2 = {'dog':'chien','cat':'chat','walrus':'morse'}
+>>> ef2
+{'walrus': 'morse', 'dog': 'chien', 'cat': 'chat'}
+>>> ef2['walrus']
+'morse'
