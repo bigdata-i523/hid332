@@ -47,6 +47,7 @@ ef2 = {'dog':'chien','cat':'chat','walrus':'morse'}
 >>> ef2['walrus']
 'morse'
 
+Chapter 4 - Code Structures
 IF ELSE
 guess_me = 7
 if guess_me < 7:
@@ -60,3 +61,30 @@ print even numbers
 even = [number for number in range(10) if number % 2 ==0]
 >>> even
 [0, 2, 4, 6, 8]
+
+print dictionary of squares
+squares = {key: key*key for key in range(10)}
+>>> squares
+{0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64, 9: 81}
+
+for thing in ('Got %s' % number for number in range(10)):
+	print (thing)
+
+	
+Got 0
+Got 1
+Got 2
+Got 3
+Got 4
+Got 5
+Got 6
+Got 7
+Got 8
+Got 9
+
+Use zip to make a dictionary
+>>> titles = ['Creature of Habit', 'Crewel Fate']
+>>> plots = ['A nun turns into a monster', 'A haunted yarn shop']
+>>> movies = dict(zip(titles, plots))
+>>> movies
+{'Crewel Fate': 'A haunted yarn shop', 'Creature of Habit': 'A nun turns into a monster'}
