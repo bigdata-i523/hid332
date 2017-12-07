@@ -1,1 +1,4 @@
 
+In simple text files, the only level of organization is the line. Sometimes more structure is needed. Here are notes about various formats:
+
+CSV - delimters include tab ('\t'), comma (',') or vertical bar. Often used is spreadsheets and databases. Parsing can get complicated. Python has CSV module (Import CSV)
