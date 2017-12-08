@@ -52,6 +52,7 @@
 * 09/28/17 Experimented with Python via tutorial
 * 10/1/17 Googled and read about YAML format
 * 10/11/17  Read Python tutorial again.  Practiced with some simple Python examples. Reviewed and tried to digest Python code to solve YAML problem.
+* 12/04/17 - 12/07/17 Completed Python excercises from book that I purchased, worked on with file that was related to project via SQLite, submitted project related information in Github as experiment as I had already submitted 9 page paper.
 
 
 # Writing
@@ -81,6 +82,7 @@
 * 11/20/17 - 11/27/17 Continue to write paper for final project
 * 11/28/17 - 12/03/17 Continue to write paper for final project
 * 12/03/17  Submitted final project paper
+* 12/07/17 - 12/08/17 Checked to make sure that my paper was in proceedings. Made some corrections to paper bibliography related infom based upon error info in proceedings file.
 
 
 # Assignments
