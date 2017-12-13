@@ -83,7 +83,7 @@
 * 11/20/17 - 11/27/17 Continue to write paper for final project
 * 11/28/17 - 12/03/17 Continue to write paper for final project
 * 12/03/17  Submitted final project paper
-* 12/07/17 - 12/08/17 Checked to make sure that my paper was in proceedings. Made some corrections to paper bibliography related infom based upon error info in proceedings file.
+* 12/07/17 - 12/12/17 Checked to make sure that my paper was in proceedings. Made some corrections to papers bibliography related infom based upon error info in proceedings file.
 
 
 # Assignments
@@ -96,4 +96,5 @@
 * 10/23/17 Proposed abstract for final project
 * 11/03/17 Submitted graded quiz about YAML formating
 * 11/04/17 Submitted paper 2
+* 12/03/17 Submitted paper for final project
 
