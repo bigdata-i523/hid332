@@ -18,6 +18,7 @@
 * 11/20/17  Attended zoom meeting
 * 11/27/17  Attended zoom meeting
 * 12/01/17  Attended zoom meeting 
+* 12/08/17  Attended zoom meeting
 
 
 # Weeks with no progress
